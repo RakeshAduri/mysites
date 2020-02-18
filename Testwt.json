@@ -1,0 +1,15 @@
+[
+  {
+    "firstname":"Naruto",
+    "lastname":"Uzumaki",
+    "age":40,
+    "marks":[{
+      "ninjustu":10
+      },
+      {
+      "taijustu":20
+      }]
+      "address":"konoha"
+      
+  }
+]
